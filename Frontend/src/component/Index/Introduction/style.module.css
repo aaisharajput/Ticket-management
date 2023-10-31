@@ -1,0 +1,41 @@
+.img{
+    width: 100%;
+    padding-bottom: 11%;
+}
+
+.intro{
+    padding-top: 8%;
+}
+
+.div{
+    position: relative;
+}
+
+.p{
+    position: absolute;
+    left:10%;
+}
+
+.i{
+    cursor: pointer;
+    font-size: 25px;
+    padding-right: 10px;
+}
+
+.facebook,.linkedin,.twitter{
+    color: rgb(26, 141, 248);
+}
+
+.youtube{
+    color:red;
+}
+
+.instagram{
+    background: linear-gradient(to left, #d31ae4 50%, #ee0faf 50%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.span{
+    font-size:x-large;
+}

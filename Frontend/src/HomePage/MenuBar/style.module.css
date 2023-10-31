@@ -1,0 +1,12 @@
+.ul li{
+  padding: 15% 0;
+}
+
+.nav{
+  /* border-right: 2px dashed black; */
+  background-color: aliceblue;
+}
+
+.nav li{
+  color:black;
+}

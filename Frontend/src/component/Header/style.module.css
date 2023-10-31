@@ -1,0 +1,50 @@
+.navbar{
+    background-color: #f0f0f0;
+    color: #fff;
+}
+
+ .ticket, .service{
+    color: #287cfb;
+}
+
+ .ticket{
+    padding-left: 20px;
+    font-family: "Changa";
+    font-weight: 500;
+    font-size: 27px;
+}
+
+ .service{
+    font-family: 'Changa One',cursive;
+    font-size: 27px;
+    margin-left:-6px;
+}
+
+
+.link1,.link2{
+    color: #333333;
+    font-size: 16.5px;
+}
+
+.link3,.link4{
+    color: #707070;
+}
+
+.link3{
+    font-size:25px;
+    font-weight: lighter;
+    color:#dedbdb
+}
+
+.faUser,.dropdownToggle,.dropdownToggle:hover{
+    color: #287cfb;
+}
+
+.navbarToggler{
+    background-color:#fff;
+}
+.navbarTogglerIcon .faBars{
+    padding-top: 3px;
+    font-size:larger;
+    color: #287cfb;
+}

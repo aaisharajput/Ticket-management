@@ -1,0 +1,13 @@
+.body{
+    height: 91vh;
+    overflow-y: auto;
+    
+}
+
+/* @media(width<= 570px){
+
+    .body{
+        height: 130vh;
+        overflow-y: auto;
+    }
+} */
